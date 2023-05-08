@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "speed",
+        "title": "Ultra Violence Speed"
+    },
+    "date": "2000-05-02",
+    "filename": "ev30-128.zip",
+    "map": "MAP30: Last Call",
+    "player": {
+        "name": "Adam Hegyi",
+        "nick": "Adamh"
+    },
+    "time": "1:28.00",
+    "url": "http://www.doom.com.hr/public/compet-n/tnt/speed/ev30-128.zip",
+    "wad": {
+        "short": "TNT",
+        "title": "Final Doom, TNT: Evilution"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "speed",
+        "title": "Ultra Violence Speed"
+    },
+    "date": "2010-10-06",
+    "filename": "ev17-030.zip",
+    "map": "MAP17: Processing Area",
+    "player": {
+        "name": "Looper",
+        "nick": "looper"
+    },
+    "time": "30.00",
+    "url": "http://www.doom.com.hr/public/compet-n/tnt/speed/ev17-030.zip",
+    "wad": {
+        "short": "TNT",
+        "title": "Final Doom, TNT: Evilution"
+    }
+}

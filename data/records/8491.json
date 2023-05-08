@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "respawn",
+        "title": "Ultra Violence Respawn"
+    },
+    "date": "2002-03-26",
+    "filename": "mm01r219.zip",
+    "map": "MAP01: The Teleporter",
+    "player": {
+        "name": "Casey Alvis",
+        "nick": "Altima Mantoid"
+    },
+    "time": "2:19.00",
+    "url": "http://www.doom.com.hr/public/compet-n/pwads/mm/respawn/mm01r219.zip",
+    "wad": {
+        "short": "MM",
+        "title": "Memento Mori"
+    }
+}

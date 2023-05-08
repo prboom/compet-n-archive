@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "nmare",
+        "title": "Nightmare Speed"
+    },
+    "date": "1997-03-30",
+    "filename": "pl19-nm.zip",
+    "map": "MAP19: NME",
+    "player": {
+        "name": "Andreas Kren",
+        "nick": "Kren"
+    },
+    "time": "1:42.00",
+    "url": "http://www.doom.com.hr/public/compet-n/plutonia/nmare/pl19-nm.zip",
+    "wad": {
+        "short": "Plutonia",
+        "title": "Final Doom, The Plutonia Experiment"
+    }
+}

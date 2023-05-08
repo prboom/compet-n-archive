@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "nomo",
+        "title": "No monsters"
+    },
+    "date": "2001-04-10",
+    "filename": "u1401234.zip",
+    "map": "E1M4: Command Control",
+    "player": {
+        "name": "Adam Hegyi",
+        "nick": "Adamh"
+    },
+    "time": "12.34",
+    "url": "http://www.doom.com.hr/public/compet-n/doom/nomo/u1401234.zip",
+    "wad": {
+        "short": "Doom",
+        "title": "The Ultimate Doom"
+    }
+}

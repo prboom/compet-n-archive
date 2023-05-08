@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "respawn",
+        "title": "Ultra Violence Respawn"
+    },
+    "date": "1999-02-28",
+    "filename": "r1m7-256.zip",
+    "map": "E1M7: Computer Station",
+    "player": {
+        "name": "Arno Slagboom",
+        "nick": "Arno"
+    },
+    "time": "2:56.00",
+    "url": "http://www.doom.com.hr/public/compet-n/doom/respawn/r1m7-256.zip",
+    "wad": {
+        "short": "Doom",
+        "title": "The Ultimate Doom"
+    }
+}

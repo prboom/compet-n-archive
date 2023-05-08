@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "nmare",
+        "title": "Nightmare Speed"
+    },
+    "date": "1998-08-01",
+    "filename": "pl32-nm.zip",
+    "map": "MAP32: Go 2 It",
+    "player": {
+        "name": "Anders Johnsen",
+        "nick": "Anders"
+    },
+    "time": "2:25.00",
+    "url": "http://www.doom.com.hr/public/compet-n/plutonia/nmare/pl32-nm.zip",
+    "wad": {
+        "short": "Plutonia",
+        "title": "Final Doom, The Plutonia Experiment"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "respawn",
+        "title": "Ultra Violence Respawn"
+    },
+    "date": "2005-03-24",
+    "filename": "mm01r113.zip",
+    "map": "MAP01: The Teleporter",
+    "player": {
+        "name": "Kristian Ronge",
+        "nick": "Ronge"
+    },
+    "time": "1:13.00",
+    "url": "http://www.doom.com.hr/public/compet-n/pwads/mm/respawn/mm01r113.zip",
+    "wad": {
+        "short": "MM",
+        "title": "Memento Mori"
+    }
+}

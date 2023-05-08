@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "max",
+        "title": "Ultra Violence Max"
+    },
+    "date": "1996-11-07",
+    "filename": "ev01-100.zip",
+    "map": "MAP01: System Control",
+    "player": {
+        "name": "Yonatan Donner",
+        "nick": "Zem"
+    },
+    "time": "1:00.00",
+    "url": "http://www.doom.com.hr/public/compet-n/tnt/max/ev01-100.zip",
+    "wad": {
+        "short": "TNT",
+        "title": "Final Doom, TNT: Evilution"
+    }
+}

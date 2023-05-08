@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "nmare",
+        "title": "Nightmare Speed"
+    },
+    "date": "1997-03-11",
+    "filename": "pl09-nm.zip",
+    "map": "MAP09: Abattoire",
+    "player": {
+        "name": "Andreas Kren",
+        "nick": "Kren"
+    },
+    "time": "3:55.00",
+    "url": "http://www.doom.com.hr/public/compet-n/plutonia/nmare/pl09-nm.zip",
+    "wad": {
+        "short": "Plutonia",
+        "title": "Final Doom, The Plutonia Experiment"
+    }
+}

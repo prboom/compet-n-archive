@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "speed",
+        "title": "Ultra Violence Speed"
+    },
+    "date": "2000-10-16",
+    "filename": "ev28-128.zip",
+    "map": "MAP28: Heck",
+    "player": {
+        "name": "Chris Ratcliff",
+        "nick": "Ryback"
+    },
+    "time": "1:28.00",
+    "url": "http://www.doom.com.hr/public/compet-n/tnt/speed/ev28-128.zip",
+    "wad": {
+        "short": "TNT",
+        "title": "Final Doom, TNT: Evilution"
+    }
+}

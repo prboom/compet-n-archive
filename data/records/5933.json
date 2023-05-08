@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "max",
+        "title": "Ultra Violence Max"
+    },
+    "date": "2001-01-08",
+    "filename": "ev01-050.zip",
+    "map": "MAP01: System Control",
+    "player": {
+        "name": "Radek Pecka",
+        "nick": "Radek"
+    },
+    "time": "50.00",
+    "url": "http://www.doom.com.hr/public/compet-n/tnt/max/ev01-050.zip",
+    "wad": {
+        "short": "TNT",
+        "title": "Final Doom, TNT: Evilution"
+    }
+}

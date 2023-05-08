@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "respawn",
+        "title": "Ultra Violence Respawn"
+    },
+    "date": "1998-01-01",
+    "filename": "e01r-102.zip",
+    "map": "MAP01: System Control",
+    "player": {
+        "name": "Donatas Tamonis",
+        "nick": "donatas"
+    },
+    "time": "1:02.00",
+    "url": "http://www.doom.com.hr/public/compet-n/tnt/respawn/e01r-102.zip",
+    "wad": {
+        "short": "TNT",
+        "title": "Final Doom, TNT: Evilution"
+    }
+}

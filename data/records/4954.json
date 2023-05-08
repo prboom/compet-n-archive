@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "nmare",
+        "title": "Nightmare Speed"
+    },
+    "date": "1997-03-01",
+    "filename": "pl05-nm.zip",
+    "map": "MAP05: Ghost Town",
+    "player": {
+        "name": "George I. Bell",
+        "nick": "Bell"
+    },
+    "time": "2:10.00",
+    "url": "http://www.doom.com.hr/public/compet-n/plutonia/nmare/pl05-nm.zip",
+    "wad": {
+        "short": "Plutonia",
+        "title": "Final Doom, The Plutonia Experiment"
+    }
+}

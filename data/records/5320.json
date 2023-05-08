@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "fast",
+        "title": "Ultra Violence Fast"
+    },
+    "date": "2001-03-04",
+    "filename": "p32f-525.zip",
+    "map": "MAP32: Go 2 It",
+    "player": {
+        "name": "Anders Johnsen",
+        "nick": "Anders"
+    },
+    "time": "5:25.00",
+    "url": "http://www.doom.com.hr/public/compet-n/plutonia/fast/p32f-525.zip",
+    "wad": {
+        "short": "Plutonia",
+        "title": "Final Doom, The Plutonia Experiment"
+    }
+}

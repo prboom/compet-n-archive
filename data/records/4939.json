@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "nmare",
+        "title": "Nightmare Speed"
+    },
+    "date": "1997-03-01",
+    "filename": "pl02-nm.zip",
+    "map": "MAP02: Well of Souls",
+    "player": {
+        "name": "Andreas Kren",
+        "nick": "Kren"
+    },
+    "time": "4:30.00",
+    "url": "http://www.doom.com.hr/public/compet-n/plutonia/nmare/pl02-nm.zip",
+    "wad": {
+        "short": "Plutonia",
+        "title": "Final Doom, The Plutonia Experiment"
+    }
+}

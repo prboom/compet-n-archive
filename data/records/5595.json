@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "speed",
+        "title": "Ultra Violence Speed"
+    },
+    "date": "2001-01-03",
+    "filename": "ev03-102.zip",
+    "map": "MAP03: Power Control",
+    "player": {
+        "name": "Vaclav Kunes",
+        "nick": "Bolton"
+    },
+    "time": "1:02.00",
+    "url": "http://www.doom.com.hr/public/compet-n/tnt/speed/ev03-102.zip",
+    "wad": {
+        "short": "TNT",
+        "title": "Final Doom, TNT: Evilution"
+    }
+}

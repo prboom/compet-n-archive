@@ -1,0 +1,19 @@
+{
+    "category": {
+        "short": "nmare",
+        "title": "Nightmare Speed"
+    },
+    "date": "1996-10-03",
+    "filename": "pl01-nm.zip",
+    "map": "MAP01: Congo",
+    "player": {
+        "name": "Andreas Kren",
+        "nick": "Kren"
+    },
+    "time": "5:39.00",
+    "url": "http://www.doom.com.hr/public/compet-n/plutonia/nmare/pl01-nm.zip",
+    "wad": {
+        "short": "Plutonia",
+        "title": "Final Doom, The Plutonia Experiment"
+    }
+}
