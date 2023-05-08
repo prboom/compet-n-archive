@@ -1,0 +1,5 @@
+/.mypy_cache/
+/.ruff_cache/
+/bin/
+/lib/
+/pyvenv.cfg

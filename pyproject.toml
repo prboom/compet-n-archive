@@ -1,0 +1,28 @@
+[tool.ruff]
+select = [
+    "B", "COM", "DTZ", "E", "ERA", "EXE", "F",
+    "ICN", "ISC", "PIE", "PGH", "PLC", "PLE", "PLR", "PLW",
+    "RUF", "SIM", "T10", "TID", "TRY", "W", "YTT",
+]
+ignore = [
+    "E741",  # ambiguous variable name
+    "PLR0913",
+    "TRY003",
+]
+target-version = "py310"
+
+
+[tool.mypy]
+files = [
+    "mirror.py",
+]
+check_untyped_defs = true
+disallow_untyped_defs = true
+warn_unused_configs = true
+warn_unused_ignores = true
+warn_unreachable = true
+
+
+[[tool.mypy.overrides]]
+module = "pyquery.*"
+ignore_missing_imports = true
